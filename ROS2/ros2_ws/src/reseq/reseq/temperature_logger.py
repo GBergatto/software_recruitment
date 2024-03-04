@@ -3,6 +3,8 @@ from rclpy.node import Node
 from std_msgs.msg import Float32
 
 # Define the TemperatureLogger node
+class TemperatureLogger():
+    pass
 
 
 def main(args=None):
